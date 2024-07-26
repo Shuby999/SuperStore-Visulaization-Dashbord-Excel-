@@ -1,4 +1,4 @@
-# SuperStore Visulaization Dashbord (Excel)
+# SuperStore Visulaization Dashboard (Excel)
 
 ## Overview:
 
