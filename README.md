@@ -52,4 +52,4 @@ A user-friendly Excel dashboard that enables stakeholders to:
 
 3.Gain insights into customer behavior and  sales performance.
 
-![snapshot](https://github.com/Shuby999/SuperStore-Visulaization-Dashbord-Excel-/blob/main/SnapShot/SuperStore%20DashBoard.png)
+![snapshot](https://github.com/Shuby999/SuperStore-Visulaization-Dashbord-Excel-/tree/main/SnapShot)
